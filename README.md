@@ -1,9 +1,6 @@
 Hi 👋 My name is Golgot Razvan-Ionut
 ====================================
 
-Full Stack Developer
---------------------
-
 Enthusiastic student with experience in the React, Node.js, and JavaScript frameworks, as well as HTML, CSS, EJS, and Express, and a track record of designing and developing scalable and responsive online apps. competent with RESTful APIs, PostgreSQL, and SQLite database management, as well as front-end and back-end programming. I'm excited to use my analytical and critical thinking abilities, as well as my strong emphasis on problem-solving and teamwork, to take on new challenges and provide my expertise to cutting-edge web development projects.
 
 *   🌍  I'm based in Cluj-Napoca
